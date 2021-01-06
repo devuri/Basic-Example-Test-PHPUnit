@@ -20,7 +20,7 @@ composer install
 
 ```
 
-### Terminal Output.
+### Output.
 ```bash
 
 PHPUnit 9.5.0 by Sebastian Bergmann and contributors.
